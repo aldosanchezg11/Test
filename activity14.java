@@ -16,6 +16,6 @@ public class activity14 extends Canvas{
         page.setColor(new Color(35, 5, 0));
         page.fillRect(385,500,30,300);
         page.setColor(new Color(0,50,0));
-        page.fillOval(200,100,400,400);
+        page.fillOval(200,100,400,430);
     }
 }
